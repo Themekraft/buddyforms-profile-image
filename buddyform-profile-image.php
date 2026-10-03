@@ -5,7 +5,7 @@
  * Description: Buddyform Profile Image - Integrate Buddyform Profile Image with a Field of BuddyForms.
  * Author:      ThemeKraft Team
  * Author URI:  https://profiles.wordpress.org/svenl77
- * Version:     1.0.1
+ * Version:     1.0.2-beta.1
  * Licence:     GPLv3
  * Text Domain: bf_profile_image_locale
  * Domain Path: /languages

@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 class bf_profile_image_manager {
 
-    protected static $version = '1.0.1';
+    protected static $version = '1.0.2-beta.1';
     private static $plugin_slug = 'profile-image';
 
     public function __construct() {
